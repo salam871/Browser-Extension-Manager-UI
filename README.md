@@ -52,8 +52,6 @@ Users should be able to:
 I still face some bugs when filtering the extensions in the Active and Inactive tabs, so I feel like I need to read more into
 array filters
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Element Filtering](https://www.freecodecamp.org/news/filter-arrays-in-javascript/)
